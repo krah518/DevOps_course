@@ -1,0 +1,14 @@
+{
+  "sitename": ["mysite1", "mysite2", "mysite3"],
+  "siteroot_dir": ["/var/www/html", "/var/www/html", "/var/www/html"],
+  "db": {
+    "username": ["mysite1", "mysite2", "mysite3"],
+    "password": ["strongpwd", "strongpwd", "strongpwd"],
+    "name": ["mydb1", "mydb2", "mydb3"]
+  },
+  "backup":{
+  	"bk_dir": "/var/backups",
+	"frequency": "1",
+	"ttl": "32"
+  }
+}
