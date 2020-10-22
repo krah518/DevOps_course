@@ -2,7 +2,7 @@
   "sitename": ["mysite1", "mysite2", "mysite3"],
   "siteroot_dir": ["/var/www/html", "/var/www/html", "/var/www/html"],
   "db": {
-    "username": ["mysite1", "mysite2", "mysite3"],
+    "username": ["mysite1", "mysite2", "mysite4"],
     "password": ["strongpwd", "strongpwd", "strongpwd"],
     "name": ["mydb1", "mydb2", "mydb3"]
   },
